@@ -1,6 +1,5 @@
 function jsListener() {
-    
-    // Test changes 
+    // New Comment
     this.customEvent = function () {
         this.name = "";
         this.target = null;
